@@ -14,6 +14,8 @@ This project is a Python-based data cleaning pipeline designed to process messy 
    ```bash
     pip install pandas
 2. Run the cleaning script from the project root:
+   ```bash
     python src/data_cleaning.py
-3. The cleaned file will generate at:
+4. The cleaned file will generate at:
+   ```bash
     data/processed/sales_data_clean.csv
